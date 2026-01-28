@@ -36,5 +36,7 @@ Weekly costs were converted to annual estimates to support clearer comparisons.
 - When compared to median household income, childcare costs represent a substantial financial burden in many states.
 
 ## Files
-- `analysis.ipynb`: Main notebook containing data cleaning, analysis, and visualizations
+- `childcare_cost_analysis.ipynb`: Data cleaning, analysis, and visualizations
+- `childcare_cost_analysis_report.pdf`: Written report summarizing methods and findings
+- `childcare_cost_analysis_presentation.pdf`: Slide deck used to present results
 
