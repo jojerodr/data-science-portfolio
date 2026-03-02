@@ -88,7 +88,6 @@ Wrapping the model in a simple UI significantly increases perceived usability, e
 |------|------------|
 | JRodriguez_DSC670_Milestone3.ipynb | Full notebook covering prompt experiments, fine-tuning pipeline, and interactive app |
 | hr_attrition_presentation.pdf | Slide deck summarizing the project |
-| hr_attrition_report.pdf | Written report covering methodology, results, and reflection |
 
 ---
 
