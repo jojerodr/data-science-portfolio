@@ -5,13 +5,12 @@ Welcome! This portfolio highlights selected analytics and machine learning proje
 
 ## Featured Projects
 - **Layoffs During COVID Analysis** — Trend analysis and visual storytelling  
-  → /projects/layoffs-analysis
 
 - **Time Series Forecasting Case Study** — Forecasting and evaluation methods  
-  → /projects/time-series-forecasting
 
-- **NLP Sentiment Analysis** — Text preprocessing and model evaluation  
-  → /projects/sentiment-analysis
+- **NLP Sentiment Analysis** — Text preprocessing and model evaluation
+
+- **HR Attrition AI Insights Generator** - Prompt Engineering, fine-tuning and interactive app for HR attrition analysis 
 
 ## About
 - Focus: analytics, storytelling, and practical ML
