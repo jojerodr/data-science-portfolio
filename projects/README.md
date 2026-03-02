@@ -10,7 +10,7 @@ Welcome! This portfolio highlights selected analytics and machine learning proje
 
 - **NLP Sentiment Analysis** — Text preprocessing and model evaluation
 
-- **HR Attrition AI Insights Generator** - Prompt Engineering, fine-tuning and interactive app for HR attrition analysis 
+- **HR Attrition AI Insights Generator** — Prompt Engineering, fine-tuning and interactive app for HR attrition analysis 
 
 ## About
 - Focus: analytics, storytelling, and practical ML
