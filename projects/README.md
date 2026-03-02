@@ -12,10 +12,10 @@ Classification modeling using 106,000+ Los Angeles County inspection records to 
 ### Layoffs During COVID Analysis
 Trend analysis and visual storytelling examining workforce reductions during the COVID period. Focused on structured data cleaning, exploratory analysis, and communicating labor market shifts clearly.
 
-### Time Series Forecasting Case Study
+### Childcare Cost - Time Series Forecasting Case Study
 Comparative evaluation of forecasting approaches with emphasis on validation strategy, error metrics, and model performance interpretation.
 
-### NLP Sentiment Analysis
+### Employee Engagement - NLP Sentiment Analysis
 Text preprocessing, feature extraction, and supervised modeling to classify sentiment. Includes evaluation of model tradeoffs and performance metrics.
 
 ### HR Attrition AI Insights Generator
