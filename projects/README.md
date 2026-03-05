@@ -6,19 +6,19 @@ Welcome. This portfolio showcases selected analytics and machine learning projec
 
 ## Featured Projects
 
-### Predicting Restaurant Inspection Risk
+### [Predicting Restaurant Inspection Risk](./predicting_restaurant_risk_using_inspectiongrade)
 Classification modeling using 106,000+ Los Angeles County inspection records to predict non-A grade outcomes. Includes time-based validation, rare event evaluation, and operational threshold analysis.
 
-### Layoffs During COVID Analysis
+### [Layoffs During COVID Analysis](./layoffs-analysis)
 Trend analysis and visual storytelling examining workforce reductions during the COVID period. Focused on structured data cleaning, exploratory analysis, and communicating labor market shifts clearly.
 
-### Childcare Cost - Time Series Forecasting Case Study
+### [Childcare Cost - Time Series Forecasting Case Study](./childcare-cost-analysis)
 Comparative evaluation of forecasting approaches with emphasis on validation strategy, error metrics, and model performance interpretation.
 
-### Employee Engagement - NLP Sentiment Analysis
+### [Employee Engagement - NLP Sentiment Analysis](./employee-engagement-intent-to-leave)
 Text preprocessing, feature extraction, and supervised modeling to classify sentiment. Includes evaluation of model tradeoffs and performance metrics.
 
-### HR Attrition AI Insights Generator
+### [HR Attrition AI Insights Generator](./hr_attrition_ai_generator)
 Prompt engineering, fine-tuning, and interactive app development to generate structured HR attrition summaries and retention recommendations using large language models.
 
 ---
