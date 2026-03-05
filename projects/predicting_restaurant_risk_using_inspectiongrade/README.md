@@ -144,12 +144,11 @@ Used responsibly, this framework could support proactive compliance efforts.
 ---
 
 ## Files
-
 | File | Description |
 |------|------------|
-| JRodriguez_DSC680_P3M3_Paper.pdf | Full white paper |
-| JRodriguez_DSC680_P3M3.pdf | Modeling notebook |
-| JRodriguez_DSC680_P3M3Code.pdf.pdf | Slide deck |
+| [JRodriguez_DSC680_P3M3_Paper.pdf](JRodriguez_DSC680_P3M3_Paper.pdf) | Full white paper |
+| [JRodriguez_DSC680_P3M3.pdf](JRodriguez_DSC680_P3M3.pdf) | Modeling notebook |
+| [JRodriguez_DSC680_P3M3Code.pdf](JRodriguez_DSC680_P3M3Code.pdf) | Slide deck |
 
 ---
 
