@@ -88,10 +88,9 @@ Even modest employer supports or policy interventions targeting childcare costs 
 ---
 
 ## Files
-- `childcare_cost_analysis.ipynb`: Data cleaning, analysis, and visualizations
-- `childcare_cost_analysis_report.pdf`: Written report summarizing methods and findings
-- `childcare_cost_analysis_presentation.pdf`: Slide deck used to present results
-
+* [childcare_cost_analysis.ipynb](childcare_cost_analysis.ipynb): Data cleaning, analysis, and visualizations
+* [childcare_cost_analysis_report.pdf](childcare_cost_analysis_report.pdf): Written report summarizing methods and findings
+* [childcare_cost_analysis_presentation.pdf](childcare_cost_analysis_presentation.pdf): Slide deck used to present results
 ---
 
 ## Tools
