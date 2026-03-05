@@ -42,7 +42,6 @@ The analysis uses the **2024 Federal Employee Viewpoint Survey (FEVS) Public Use
 - Findings are based on self-reported perceptions and broad public-use demographic categories.
 
 ## Files
-- `employee_engagement_intent_to_leave.ipynb`: Data preparation, analysis, and visualizations
-- `employee_engagement_intent_to_leave_report.pdf`: Written white paper summarizing findings and implications
-- `employee_engagement_intent_to_leave_presentation.pdf`: presentation summarizing findings and implications
-
+- [employee_engagement_intent_to_leave.ipynb](employee_engagement_intent_to_leave.ipynb): Data preparation, analysis, and visualizations
+- [employee_engagement_intent_to_leave_report.pdf](employee_engagement_intent_to_leave_report.pdf): Written white paper summarizing findings and implications
+- [employee_engagement_intent_to_leave_presentation.pdf](employee_engagement_intent_to_leave_presentation.pdf): Presentation summarizing findings and implications
